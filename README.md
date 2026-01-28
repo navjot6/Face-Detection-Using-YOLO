@@ -13,14 +13,7 @@ sdk_version: 1.52.2
 ---
 # 👤 Face Detection Web Application
 
-A web-based Face Detection application built using **Python, YOLO, OpenCV, and Streamlit**, and deployed on **Hugging Face Spaces**. The application allows users to upload images and automatically detects human faces with bounding boxes.
-
----
-
-## 🚀 Live Demo
-🔗 *Deployed on Hugging Face Spaces*  
-     
-    (The application highlights detected faces with bounding boxes in uploaded images)
+A web-based Face Detection application built using Python, YOLO, OpenCV, and Streamlit, and deployed on Hugging Face Spaces. The application allows users to upload images and automatically detects human faces with bounding boxes.
 
 ---
 
@@ -40,24 +33,24 @@ This project demonstrates a complete **end-to-end ML deployment pipeline**, from
 ---
 
 ## 🛠️ Tech Stack
-- **Programming Language**: Python  
-- **Computer Vision**: OpenCV  
-- **Deep Learning Model**: YOLO  
-- **Web Framework**: Streamlit  
-- **Deployment Platform**: Hugging Face Spaces  
+- Programming Language: Python  
+- Computer Vision: OpenCV  
+- Deep Learning Model: YOLO  
+- Web Framework: StreamLit  
+- Deployment Platform: Hugging Face Spaces  
 
 ---
 
 ## 📂 Project Structure
 
 face-detection-app/
-├── app.py # Main Streamlit application
+├── streamlit_app.py # Main Streamlit application
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 
 ---
 
-### 👩‍💻 Author
+## 👩‍💻 Author
 
 Navjot Kaur
-Aspiring Machine Learning Engineer
+(Aspiring Machine Learning Engineer)
